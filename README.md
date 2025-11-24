@@ -1,8 +1,12 @@
 ### Olá! Eu sou o Paulo Lisboa ✌️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-lisboa-8935161b5/)
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pgustavols&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Pgustavols&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Minhas Estatísticas 📊
+
+<div style="display: inline_block">
+  <img height="180em" src="https://github-readme-stats-theta-one-47.vercel.app/api?username=Pgustavols&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-theta-one-47.vercel.app/api/top-langs?username=Pgustavols&theme=dark&layout=compact"/>
+</div>
 
 ## Tecnologias que eu uso
 
