@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Paulo Gustavo✌️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-lisboa-8935161b5/)
+
 Sou estudante do 5º semestre na FATEC e desenvolvedor focado no ecossistema backend. Tenho grande interesse no setor financeiro e de pagamentos, e atualmente busco uma oportunidade de estágio para aplicar e expandir meus conhecimentos na criação de soluções escaláveis.
 ### Minhas Estatísticas 📊
 
@@ -8,7 +9,7 @@ Sou estudante do 5º semestre na FATEC e desenvolvedor focado no ecossistema bac
   <img height="180em" src="https://github-readme-stats-theta-one-47.vercel.app/api/top-langs?username=Pgustavols&theme=dark&layout=compact"/>
 </div>
 
-**Tecnologias e Ferramentas 🛠️**
+##Tecnologias e Ferramentas 🛠️
 
 *Backend & Banco de Dados*
 <div style="display: inline_block"><br>
