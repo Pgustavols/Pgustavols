@@ -1,4 +1,4 @@
-### Olá! Eu sou o Paulo Gustavo✌️
+### Olá! Eu sou o Paulo Lisboa✌️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-lisboa-8935161b5/)
 
 Sou estudante na FATEC e desenvolvedor focado no ecossistema backend. Tenho grande interesse no setor financeiro e de pagamentos, e atualmente busco uma oportunidade de estágio para aplicar e expandir meus conhecimentos na criação de soluções escaláveis.
